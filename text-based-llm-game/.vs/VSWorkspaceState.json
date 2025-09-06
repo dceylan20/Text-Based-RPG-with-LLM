@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\signup",
+    "\\src\\components",
+    "\\src\\db",
+    "\\src\\lib",
+    "\\src\\lib\\combat",
+    "\\src\\lib\\combat\\abilities",
+    "\\src\\lib\\types",
+    "\\src\\utils"
+  ],
+  "SelectedNode": "\\src\\components\\Chatbox.tsx",
+  "PreviewInSolutionExplorer": false
+}

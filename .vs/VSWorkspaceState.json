@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\text-based-llm-game",
+    "\\text-based-llm-game\\src",
+    "\\text-based-llm-game\\src\\lib",
+    "\\text-based-llm-game\\src\\lib\\combat",
+    "\\text-based-llm-game\\src\\lib\\combat\\enemies",
+    "\\text-based-llm-game\\src\\lib\\combat\\engine",
+    "\\text-based-llm-game\\src\\lib\\combat\\logic",
+    "\\text-based-llm-game\\src\\lib\\types",
+    "\\text-based-llm-game\\src\\styles"
+  ],
+  "SelectedNode": "\\text-based-llm-game\\src\\lib\\types\\combat.ts",
+  "PreviewInSolutionExplorer": false
+}

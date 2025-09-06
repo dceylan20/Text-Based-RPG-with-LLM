@@ -1,0 +1,548 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\components\\Chatbox.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Chatbox.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\api\\game\\route.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\api\\game\\route.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\api\\enemy\\by-name\\route.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\api\\enemy\\by-name\\route.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\api\\skills\\route.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\api\\skills\\route.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\api\\session\\route.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\api\\session\\route.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\api\\classes\\route.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\api\\classes\\route.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\api\\player\\route.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\api\\player\\route.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\lib\\types\\character.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\lib\\types\\character.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\signup\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\signup\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\login\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\login\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\dashboard\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\dashboard\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\db\\schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\db\\schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\api\\combat-turn\\route.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\api\\combat-turn\\route.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\game\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\game\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\lib\\combat\\logic\\handlers.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\lib\\combat\\logic\\handlers.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\lib\\combat\\abilities\\classAbilities.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\lib\\combat\\abilities\\classAbilities.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\lib\\combat\\enemies\\enemyFactory.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\lib\\combat\\enemies\\enemyFactory.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\lib\\combat\\enemies\\enemyTemplates.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\lib\\combat\\enemies\\enemyTemplates.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\lib\\combat\\enemies\\enemyTypes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\lib\\combat\\enemies\\enemyTypes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\lib\\combat\\engine\\combatEngine.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\lib\\combat\\engine\\combatEngine.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\context\\GameContext.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\context\\GameContext.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\api\\user\\login\\route.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\api\\user\\login\\route.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\api\\user\\route.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\api\\user\\route.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\api\\owned-skill\\route.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\api\\owned-skill\\route.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\api\\memory\\route.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\api\\memory\\route.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\api\\intro\\route.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\api\\intro\\route.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\api\\image\\route.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\api\\image\\route.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\api\\enemy\\route.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\api\\enemy\\route.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\api\\combat-test\\route.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\api\\combat-test\\route.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\api\\combat-real\\route.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\api\\combat-real\\route.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Downloads\\Chatbox_fixed.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\db\\database.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\db\\database.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Chatbox.tsx",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\components\\Chatbox.tsx",
+              "RelativeDocumentMoniker": "src\\components\\Chatbox.tsx",
+              "ToolTip": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\components\\Chatbox.tsx",
+              "RelativeToolTip": "src\\components\\Chatbox.tsx",
+              "ViewState": "AgIAADECAAAAAAAAAADwv0UCAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-01T10:14:15.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\signup\\page.tsx",
+              "RelativeDocumentMoniker": "src\\app\\signup\\page.tsx",
+              "ToolTip": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\signup\\page.tsx",
+              "RelativeToolTip": "src\\app\\signup\\page.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-12T12:40:12.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\login\\page.tsx",
+              "RelativeDocumentMoniker": "src\\app\\login\\page.tsx",
+              "ToolTip": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\login\\page.tsx",
+              "RelativeToolTip": "src\\app\\login\\page.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-12T12:40:01.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\dashboard\\page.tsx",
+              "RelativeDocumentMoniker": "src\\app\\dashboard\\page.tsx",
+              "ToolTip": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\dashboard\\page.tsx",
+              "RelativeToolTip": "src\\app\\dashboard\\page.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-12T12:39:28.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\page.tsx",
+              "RelativeDocumentMoniker": "src\\app\\page.tsx",
+              "ToolTip": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\page.tsx",
+              "RelativeToolTip": "src\\app\\page.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-12T12:37:52.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "handlers.ts",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\lib\\combat\\logic\\handlers.ts",
+              "RelativeDocumentMoniker": "src\\lib\\combat\\logic\\handlers.ts",
+              "ToolTip": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\lib\\combat\\logic\\handlers.ts",
+              "RelativeToolTip": "src\\lib\\combat\\logic\\handlers.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-12T12:35:37.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "route.ts",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\api\\combat-turn\\route.ts",
+              "RelativeDocumentMoniker": "src\\app\\api\\combat-turn\\route.ts",
+              "ToolTip": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\api\\combat-turn\\route.ts",
+              "RelativeToolTip": "src\\app\\api\\combat-turn\\route.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-12T12:27:22.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "route.ts",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\api\\player\\route.ts",
+              "RelativeDocumentMoniker": "src\\app\\api\\player\\route.ts",
+              "ToolTip": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\api\\player\\route.ts",
+              "RelativeToolTip": "src\\app\\api\\player\\route.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-02T14:17:26.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "route.ts",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\api\\classes\\route.ts",
+              "RelativeDocumentMoniker": "src\\app\\api\\classes\\route.ts",
+              "ToolTip": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\api\\classes\\route.ts",
+              "RelativeToolTip": "src\\app\\api\\classes\\route.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-02T19:41:57.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "route.ts",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\api\\game\\route.ts",
+              "RelativeDocumentMoniker": "src\\app\\api\\game\\route.ts",
+              "ToolTip": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\api\\game\\route.ts",
+              "RelativeToolTip": "src\\app\\api\\game\\route.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-12T12:28:52.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "character.ts",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\lib\\types\\character.ts",
+              "RelativeDocumentMoniker": "src\\lib\\types\\character.ts",
+              "ToolTip": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\lib\\types\\character.ts",
+              "RelativeToolTip": "src\\lib\\types\\character.ts",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvx8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-12T23:35:51.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "route.ts",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\api\\session\\route.ts",
+              "RelativeDocumentMoniker": "src\\app\\api\\session\\route.ts",
+              "ToolTip": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\api\\session\\route.ts",
+              "RelativeToolTip": "src\\app\\api\\session\\route.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-12T12:30:12.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "route.ts",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\api\\skills\\route.ts",
+              "RelativeDocumentMoniker": "src\\app\\api\\skills\\route.ts",
+              "ToolTip": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\api\\skills\\route.ts",
+              "RelativeToolTip": "src\\app\\api\\skills\\route.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-03T00:32:28.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "route.ts",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\api\\enemy\\by-name\\route.ts",
+              "RelativeDocumentMoniker": "src\\app\\api\\enemy\\by-name\\route.ts",
+              "ToolTip": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\api\\enemy\\by-name\\route.ts",
+              "RelativeToolTip": "src\\app\\api\\enemy\\by-name\\route.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-12T12:27:28.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "classAbilities.ts",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\lib\\combat\\abilities\\classAbilities.ts",
+              "RelativeDocumentMoniker": "src\\lib\\combat\\abilities\\classAbilities.ts",
+              "ToolTip": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\lib\\combat\\abilities\\classAbilities.ts",
+              "RelativeToolTip": "src\\lib\\combat\\abilities\\classAbilities.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-12T12:33:26.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "enemyFactory.ts",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\lib\\combat\\enemies\\enemyFactory.ts",
+              "RelativeDocumentMoniker": "src\\lib\\combat\\enemies\\enemyFactory.ts",
+              "ToolTip": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\lib\\combat\\enemies\\enemyFactory.ts",
+              "RelativeToolTip": "src\\lib\\combat\\enemies\\enemyFactory.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-12T12:34:09.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "enemyTemplates.ts",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\lib\\combat\\enemies\\enemyTemplates.ts",
+              "RelativeDocumentMoniker": "src\\lib\\combat\\enemies\\enemyTemplates.ts",
+              "ToolTip": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\lib\\combat\\enemies\\enemyTemplates.ts",
+              "RelativeToolTip": "src\\lib\\combat\\enemies\\enemyTemplates.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-12T12:34:11.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "enemyTypes.ts",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\lib\\combat\\enemies\\enemyTypes.ts",
+              "RelativeDocumentMoniker": "src\\lib\\combat\\enemies\\enemyTypes.ts",
+              "ToolTip": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\lib\\combat\\enemies\\enemyTypes.ts",
+              "RelativeToolTip": "src\\lib\\combat\\enemies\\enemyTypes.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-12T12:34:12.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "schema.sql",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\db\\schema.sql",
+              "RelativeDocumentMoniker": "src\\db\\schema.sql",
+              "ToolTip": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\db\\schema.sql",
+              "RelativeToolTip": "src\\db\\schema.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-01T10:13:29.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "combatEngine.ts",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\lib\\combat\\engine\\combatEngine.ts",
+              "RelativeDocumentMoniker": "src\\lib\\combat\\engine\\combatEngine.ts",
+              "ToolTip": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\lib\\combat\\engine\\combatEngine.ts",
+              "RelativeToolTip": "src\\lib\\combat\\engine\\combatEngine.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-12T12:34:55.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GameContext.tsx",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\context\\GameContext.tsx",
+              "RelativeDocumentMoniker": "src\\context\\GameContext.tsx",
+              "ToolTip": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\context\\GameContext.tsx",
+              "RelativeToolTip": "src\\context\\GameContext.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-12T12:32:21.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "route.ts",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\api\\user\\login\\route.ts",
+              "RelativeDocumentMoniker": "src\\app\\api\\user\\login\\route.ts",
+              "ToolTip": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\api\\user\\login\\route.ts",
+              "RelativeToolTip": "src\\app\\api\\user\\login\\route.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-12T12:30:31.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "route.ts",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\api\\user\\route.ts",
+              "RelativeDocumentMoniker": "src\\app\\api\\user\\route.ts",
+              "ToolTip": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\api\\user\\route.ts",
+              "RelativeToolTip": "src\\app\\api\\user\\route.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-12T12:30:29.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\game\\page.tsx",
+              "RelativeDocumentMoniker": "src\\app\\game\\page.tsx",
+              "ToolTip": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\game\\page.tsx",
+              "RelativeToolTip": "src\\app\\game\\page.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-02T19:35:24.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "route.ts",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\api\\memory\\route.ts",
+              "RelativeDocumentMoniker": "src\\app\\api\\memory\\route.ts",
+              "ToolTip": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\api\\memory\\route.ts",
+              "RelativeToolTip": "src\\app\\api\\memory\\route.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-12T12:29:29.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "route.ts",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\api\\intro\\route.ts",
+              "RelativeDocumentMoniker": "src\\app\\api\\intro\\route.ts",
+              "ToolTip": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\api\\intro\\route.ts",
+              "RelativeToolTip": "src\\app\\api\\intro\\route.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-12T12:29:15.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "route.ts",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\api\\image\\route.ts",
+              "RelativeDocumentMoniker": "src\\app\\api\\image\\route.ts",
+              "ToolTip": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\api\\image\\route.ts",
+              "RelativeToolTip": "src\\app\\api\\image\\route.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-12T12:29:11.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "route.ts",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\api\\enemy\\route.ts",
+              "RelativeDocumentMoniker": "src\\app\\api\\enemy\\route.ts",
+              "ToolTip": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\api\\enemy\\route.ts",
+              "RelativeToolTip": "src\\app\\api\\enemy\\route.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-12T12:28:48.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "route.ts",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\api\\combat-test\\route.ts",
+              "RelativeDocumentMoniker": "src\\app\\api\\combat-test\\route.ts",
+              "ToolTip": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\api\\combat-test\\route.ts",
+              "RelativeToolTip": "src\\app\\api\\combat-test\\route.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-12T12:27:19.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "route.ts",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\api\\combat-real\\route.ts",
+              "RelativeDocumentMoniker": "src\\app\\api\\combat-real\\route.ts",
+              "ToolTip": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\api\\combat-real\\route.ts",
+              "RelativeToolTip": "src\\app\\api\\combat-real\\route.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-12T12:27:08.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "route.ts",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\api\\owned-skill\\route.ts",
+              "RelativeDocumentMoniker": "src\\app\\api\\owned-skill\\route.ts",
+              "ToolTip": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\app\\api\\owned-skill\\route.ts",
+              "RelativeToolTip": "src\\app\\api\\owned-skill\\route.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-03T00:37:23.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Chatbox_fixed.tsx",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Downloads\\Chatbox_fixed.tsx",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\Chatbox_fixed.tsx",
+              "ToolTip": "C:\\Users\\Ahmet\\Downloads\\Chatbox_fixed.tsx",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Chatbox_fixed.tsx",
+              "ViewState": "AgIAADMCAAAAAAAAAAAuwE0CAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-02T19:09:16.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "database.ts",
+              "DocumentMoniker": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\db\\database.ts",
+              "RelativeDocumentMoniker": "src\\db\\database.ts",
+              "ToolTip": "C:\\Users\\Ahmet\\Desktop\\project-1205\\GameProjectLLM\\text-based-llm-game\\src\\db\\database.ts",
+              "RelativeToolTip": "src\\db\\database.ts",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-01T10:13:13.93Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
